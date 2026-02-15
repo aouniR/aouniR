@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aounir&label=Profile%20views&color=0e75b6&style=flat" alt="aounir" /> </p>
 
-- 🌱 I’m currently learning **AWS Solution Architect **
+- 🌱 I’m currently learning **AWS Solution Architect**
 
 - 👯 I’m looking to collaborate on **Back-end, Full-stack projects and Dev-ops projects**
 
