@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS Solution Architect**
 
-- 👯 I’m looking to collaborate on **Back-end, Full-stack projects and Dev-ops projects**
+- 👯 I’m looking to collaborate on **Back-End, Full-Stack and Dev-ops projects**
 
 
 <h3 align="left">Connect with me:</h3>
