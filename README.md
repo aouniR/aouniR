@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aounir&label=Profile%20views&color=0e75b6&style=flat" alt="aounir" /> </p>
 
-- 🔭 I’m currently working on **Social Mobile App using Kotlin**
+- 🌱 I’m currently learning **AWS Solution Architect **
 
-- 🌱 I’m currently learning **AWS Solution Architect & Kotlin**
-
-- 👯 I’m looking to collaborate on **Back-end, Full-stack projects**
-
-- 🤝 I’m looking for help with **Dev-ops projects**
-
-- 📫 How to reach me **aouni.radhouan@outlook.com**
+- 👯 I’m looking to collaborate on **Back-end, Full-stack projects and Dev-ops projects**
 
 ###
 
